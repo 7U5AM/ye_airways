@@ -1,3 +1,4 @@
+
 # ye_airways
 
 # YEMENIA AIRWAYS
@@ -20,21 +21,21 @@
   <img src="YE ScreenShot/ 09.png" width="25%" />
 </p>
 <p float="left">
-   <img src="YE YE ScreenShot/ 10.png" width="25%" />
-  <img src="YE YE ScreenShot/ 11.png" width="25%" />
-  <img src="YE YE ScreenShot/12.png" width="25%" />
+   <img src="YE ScreenShot/ 10.png" width="25%" />
+  <img src="YE ScreenShot/ 11.png" width="25%" />
+  <img src="YE ScreenShot/12.png" width="25%" />
  </p>
 <p float="left">
-   <img src="YE YE ScreenShot/ 13.png" width="25%" />
-  <img src="YE YE ScreenShot/14.png" width="25%" />
-  <img src="YE YE ScreenShot/ 15.png" width="25%" />
+   <img src="YE ScreenShot/ 13.png" width="25%" />
+  <img src="YE ScreenShot/14.png" width="25%" />
+  <img src="YE ScreenShot/ 15.png" width="25%" />
 </p>
 <p float="left">
-  <img src="YE YE ScreenShot/ 16.png" width="25%" />
-  <img src="YE YE ScreenShot/ 17.png" width="25%" />
-  <img src="YE YE ScreenShot/ 18.png" width="25%" /> 
+  <img src="YE ScreenShot/ 16.png" width="25%" />
+  <img src="YE ScreenShot/ 17.png" width="25%" />
+  <img src="YE ScreenShot/ 18.png" width="25%" /> 
 </p>
 <p float="left">
-   <img src="YE YE ScreenShot/ 19.png" width="25%" />
+   <img src="YE ScreenShot/ 19.png" width="25%" />
    <img src="YE ScreenShot/20.png" width="25%" />  
 </p>
