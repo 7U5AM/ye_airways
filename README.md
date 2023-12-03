@@ -6,7 +6,7 @@
 ###  GUI App
 <p float="left">
   <img src="YE ScreenShot/01.png" width="25%" />
-  <img src="YE ScreenShot/ 02.png" width="25%" />
+  <img src="YE ScreenShot/02.png" width="25%" />
   <img src="YE ScreenShot/ 03.png" width="25%" />
 </p>
 <p float="left">
