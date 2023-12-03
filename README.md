@@ -33,9 +33,8 @@
 <p float="left">
   <img src="YE ScreenShot/ 16.png" width="25%" />
   <img src="YE ScreenShot/ 17.png" width="25%" />
-  <img src="YE ScreenShot/ 18.png" width="25%" /> 
-</p>
-<p float="left">
    <img src="YE ScreenShot/ 19.png" width="25%" />
+  </p>
+<p float="left">
    <img src="YE ScreenShot/20.png" width="25%" />  
 </p>
