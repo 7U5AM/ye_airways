@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97298882726",
+    "project_id": "flight-reservation-4660b",
+    "storage_bucket": "flight-reservation-4660b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97298882726:android:9adda58e31a54f18281467",
+        "android_client_info": {
+          "package_name": "com.example.ye_airways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97298882726-dosfq7qrgvm8pecll21d6013bnbvd2t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ye_airways",
+            "certificate_hash": "9a300d8aef1f29ce0bfd733722968bef8ad61539"
+          }
+        },
+        {
+          "client_id": "97298882726-ld6bu020m3u9h7e0khe94mhbgljpatgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj28dgeBP0qW6rWS3MIXbMCtodtU9mViQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97298882726-ld6bu020m3u9h7e0khe94mhbgljpatgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
