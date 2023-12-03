@@ -20,7 +20,7 @@
   <img src="YE ScreenShot/ 09.png" width="25%" />
 </p>
 <p float="left">
-   <img src="YE YE ScreenShot/ 10.png" width="25%" />
+   <img src="YE YE ScreenShot/10.png" width="25%" />
   <img src="YE YE ScreenShot/ 11.png" width="25%" />
   <img src="YE YE ScreenShot/12.png" width="25%" />
  </p>
